@@ -1,0 +1,1 @@
+geth --identity "Devoxx_node" --rpc --rpcport "8545" --rpccorsdomain "*" --datadir "D:\private_chain\demo_devox" --port "30303" --nodiscover --ipcapi "admin,db,eth,debug,miner,net,shh,txpool,personal,web3" --rpcapi "db,eth,net,web3" --autodag --networkid 2016 --nat "none" --unlock "0xf7a0d19b0e00d01839177aa82e6931c21a72bc0d"  console
